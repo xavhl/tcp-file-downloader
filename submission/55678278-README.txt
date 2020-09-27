@@ -1,4 +1,4 @@
-This program is created by Yuen Hei YEUNG (55678278)
+This program is created by (55678278)
 
 The program is built using Visual Studio Developer Command Prompt
 
