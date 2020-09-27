@@ -1,0 +1,20 @@
+This program is created by Yuen Hei YEUNG (55678278)
+
+The program is built using Visual Studio Developer Command Prompt
+
+Development Environment: Windows 10 Education Build 1903
+Editor: Visual Studio 2019 Version 16.3.09
+
+Build Instructions:
+1. Run Visual Studio Developer Command Prompt (available if Visual Studio is installed)
+2. Type in following command
+	> cd xxx //change directory to source file location (xxx)
+	> cl 55678278.c //compile .c file
+	> 55678278 //type the file name again to run the program
+
+Execution Instructions:
+1. IP address must be in IPv4
+2. Type 'exit' to terminate the program
+
+Reference(if needed):
+"Walkthrough: Compile a C program on the command line" (https://docs.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?redirectedfrom=MSDN&view=vs-2019)
